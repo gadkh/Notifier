@@ -1,2 +1,6 @@
+from apis import run_server
+
+
 if __name__ == '__main__':
-    print("hello world")
+    print("----- Server Running -----")
+    run_server()
